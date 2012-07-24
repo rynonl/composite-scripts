@@ -1,0 +1,5 @@
+C:\src\composite-scripts\composite-scripts\bin\composite-scripts.dll
+C:\src\composite-scripts\composite-scripts\bin\composite-scripts.pdb
+C:\src\composite-scripts\composite-scripts\obj\Debug\ResolveAssemblyReference.cache
+C:\src\composite-scripts\composite-scripts\obj\Debug\composite-scripts.dll
+C:\src\composite-scripts\composite-scripts\obj\Debug\composite-scripts.pdb
